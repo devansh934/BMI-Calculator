@@ -35,8 +35,7 @@ BMI = weight (kg) / (height (m) × height (m))
 
 ```
 📂 Project Structure
-pgsql
-Copy code
+
 ├── index.html
 └── README.md
 📄 License
