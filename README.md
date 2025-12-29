@@ -5,6 +5,7 @@ It calculates BMI based on height and weight and instantly shows the correspondi
 
 ## 🚀 Live Demo
 
+ [BMI Calculator Live](https://devansh934.github.io/BMI-Calculator/)
 
 ## 📌 Features
 - Modern and clean UI  
@@ -28,7 +29,9 @@ BMI = weight (kg) / (height (m) × height (m))
 
 
 ## 📷 Screenshot
-```md
+
+
+```
 ![BMI Calculator](./screenshot.png)
 📂 Project Structure
 pgsql
