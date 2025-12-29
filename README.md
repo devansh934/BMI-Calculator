@@ -30,6 +30,8 @@ BMI = weight (kg) / (height (m) × height (m))
 
 ## 📷 Screenshot
 
+<img width="1888" height="865" alt="Screenshot 2025-12-29 225245" src="https://github.com/user-attachments/assets/7af5f0c7-ac63-42a9-904f-eaba3c74fa62" />
+
 
 ```
 ![BMI Calculator](./screenshot.png)
@@ -42,8 +44,5 @@ Copy code
 Free to use for learning and personal projects.
 
 ⭐ If you like this project, consider giving it a star!
-
-markdown
-Copy code
 
 ---
